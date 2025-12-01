@@ -13,7 +13,7 @@ A simple **Tic Tac Toe** game created using **HTML, CSS, and JavaScript**. This 
 
 ## How to Play
 
-Open [`index.html`](index.html) in your browser or visit [live demo](https://faryal-tic-tac-toe.netlify.app/)
+1. Open [`index.html`](index.html) in your browser or visit [live demo](https://faryal-tic-tac-toe.netlify.app/)
 2. Players take turns clicking on empty boxes to place their symbol (X or O).
 3. The game automatically detects a winner or a draw.
 4. Click **Reset Game** or **New Game** to restart.
